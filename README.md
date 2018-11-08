@@ -1,2 +1,7 @@
-# GANnotation
-face to face synthesis using GANs
+# GANnotation (soon)
+
+Face-to-face synthesis using Generative Adversarial Networks
+
+Code will be available on this repository soon...
+
+
