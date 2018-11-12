@@ -1,5 +1,5 @@
 # GANnotation
-## Face to face synthesis using Generative Adversarial Networks [model](https://drive.google.com/open?id=1YhpFXME3pnwy_WhgBtyhGhI1Y9WYYEOz)
+## Face to face synthesis using Generative Adversarial Networks ([model](https://drive.google.com/open?id=1YhpFXME3pnwy_WhgBtyhGhI1Y9WYYEOz))
 
 <a href="https://www.youtube.com/watch?v=-8r7zexg4yg
 " target="_blank"><img src="https://esanchezlozano.github.io/files/test_gannotation.gif" 
