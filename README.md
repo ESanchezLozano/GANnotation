@@ -5,7 +5,6 @@
 " target="_blank"><img src="https://esanchezlozano.github.io/files/test_gannotation.gif" 
 alt="GANnotation example" width="240" height="180" border="10" /></a>
 
-
 This is the PyTorch repository for the GANnotation implementation. GANnotation is a landmark-guided face to face synthesis
 
 Release v1 (Nov. 2018): Demo showing the performance of our GANnotation
@@ -22,6 +21,8 @@ It also requires scipy and matplotlib, and the Python version to be 3.X
 
 
 ## Use
+
+The model can be downloaded from [https://drive.google.com/open?id=1YhpFXME3pnwy_WhgBtyhGhI1Y9WYYEOz]
 
 Please, see the demo_gannotation.py file for usage
 
