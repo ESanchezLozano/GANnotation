@@ -5,8 +5,6 @@
 " target="_blank"><img src="https://esanchezlozano.github.io/files/test_gannotation.gif" 
 alt="GANnotation example" width="240" height="180" border="10" /></a>
 
-![Alt Text](https://esanchezlozano.github.io/files/test_gannotation.gif)
-
 
 This is the PyTorch repository for the GANnotation implementation. GANnotation is a landmark-guided face to face synthesis
 
