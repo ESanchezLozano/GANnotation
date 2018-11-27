@@ -9,6 +9,8 @@ This is the PyTorch repository for the GANnotation implementation. GANnotation i
 
 Release v1 (Nov. 2018): Demo showing the performance of our GANnotation
 
+NOTE: The re-training of the StarGAN using the triple consistency loss can be found [here](https://github.com/ESanchezLozano/stargan)
+
 Release v2 will follow soon with the training code
 
 ## Requirements
