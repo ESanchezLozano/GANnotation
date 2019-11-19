@@ -8,6 +8,7 @@ alt="GANnotation example" width="240" height="180" border="10" /></a>
 This is the PyTorch repository for the GANnotation implementation. GANnotation is a landmark-guided face to face synthesis network that incorporates a triple consistency loss to bridge the gap between the input and target distributions
 
 Release v1 (Nov. 2018): Demo showing the performance of our GANnotation
+
 Release v2 (Nov. 2019): Training script on its way
 
 NOTE: The re-training of the StarGAN using the triple consistency loss can be found [here](https://github.com/ESanchezLozano/stargan)
