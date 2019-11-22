@@ -4,6 +4,11 @@ This code is the re-polished version of the training pipeline of GANnotation I d
 
 # Data
 
+Example of training:
+```
+python train.py --bSize 64 --db 300VW --path '' --use_edge
+```
+
 This code uses the 300VW. We have first processed it by extracting its frames and gathering the landmarks in the files pts.pt. In order to run the code as is you need to extract the frames and gather the corresponding points into the pts.pt file. A script to process it might follow-up.
 
 Alternatively, you can use your own data. It is suggested to use the skeleton provided in databases.py as it enables the use of multiple databases in a much easier way:
