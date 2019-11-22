@@ -1,6 +1,6 @@
 # GANnotation training scripts
 
-This code is the re-polished version of the training pipeline of GANnotation I developed whilst holding a post-doc position at the University of Nottingham.  
+This code is the re-polished version of the training pipeline of GANnotation I developed whilst holding a post-doc position at the University of Nottingham. Due to the clean-up, it might be the case that the models trained under this script are not suitable to be tested under the previously released testing code. A new testing pipeline will follow up.
 
 # Data
 
