@@ -11,6 +11,8 @@ Release v1 (Nov. 2018): Demo showing the performance of our GANnotation
 
 Release v2 (Nov. 2019): Training script on its way
 
+Paper has been accepted to FG'2020, see citation below.
+
 NOTE: The re-training of the StarGAN using the triple consistency loss can be found [here](https://github.com/ESanchezLozano/stargan)
 
 
@@ -41,10 +43,6 @@ The model can be downloaded from [https://drive.google.com/open?id=1YhpFXME3pnwy
 
 Please, see the demo_gannotation.py file for usage
 
-## Training
-
-On its way!
-
 
 ## Contributions
 
@@ -55,10 +53,10 @@ All contributions are welcome
 Should you use this code or the ideas from the paper, please cite the following paper:
 
 ```
-@article{Sanchez2018Gannotation,
-  title={Triple consistency loss for pairing distributions in GAN-based face synthesis},
+@inproceedings{Sanchez2020Gannotation,
+  title={A recurrent cycle consistency loss for progressive face-to-face synthesis},
   author={Enrique Sanchez and Michel Valstar},
-  journal={arXiv preprint arXiv:1811.03492},
-  year={2018}
+  booktitle={IEEE Int'l Conf. on Automatic Face and Gesture Recognition (FG)},
+  year={2020}
 }
 ```
